@@ -4,16 +4,24 @@ html {
 
 body {
     height: 100%;
-    
+    background-color: #e8e3dc;
+    color: #ef1c04;
 }
+
 a {
     text-decoration: none;
 }
 
 .main {
     height: 100%;
+    background-image: url("https://orig00.deviantart.net/2661/f/2013/070/7/1/lana_del_rey__l_officiel_paris_photoshoot__1_by_deadlyangel_drawings-d5xpkj4.png");
 }
+
 .social-image{
     width: 30px;
     margin: 15px;
+}
+
+.rightPane {
+    background-image: url("https://orig00.deviantart.net/c9d1/f/2013/070/6/f/lana_del_rey__l_officiel_paris_photoshoot__2_by_deadlyangel_drawings-d5xplj4.png");
 }
